@@ -20,7 +20,7 @@ const Footer = () => {
               <h4 className="font-cinzel text-lg text-gold mb-2">Navigation</h4>
               <ul className="space-y-1">
                 <li><a href="/" className="text-sm hover:text-gold transition-colors">Home</a></li>
-                <li><a to="/prayers" className="text-sm hover:text-gold transition-colors">All Prayers</a></li>
+                <li><a href="/prayers" className="text-sm hover:text-gold transition-colors">All Prayers</a></li>
               </ul>
             </div>
             
